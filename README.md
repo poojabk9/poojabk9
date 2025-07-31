@@ -1,7 +1,11 @@
-### Hi there 👋
+### 🌟 Welcome to my Github 🌟
 
-My name is Pooja
-I have worked as a software engineer and am now transitioning into data Analytics.
+👋 Hi, I’m Pooja BK
+🎯 Ex-Systems Engineer now diving deep into Data Science & Analytics
+🧠 Learning through hands-on projects with SQL, Excel, Power BI & Python
+📈 Passionate about data storytelling and solving real-world problems
+👩‍💻 Building my portfolio one project at a time
 
-Find me at : [LinkedIn](https://www.linkedin.com/in/poojabk/)
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/poojabk/)
+
 
