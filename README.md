@@ -15,4 +15,4 @@
 
 
 ### Current Focus 👩🏽‍💻
-Working through [Danny Ma’s 8 Week SQL Challenge](https://8weeksqlchallenge.com/) to sharpen my SQL problem-solving skills, with solutions published in my [8-week SQL Challenge repository](https://github.com/poojabk9/8-week-sql-challenge).
+Working through [Danny Ma’s 8 Week SQL Challenge](https://8weeksqlchallenge.com/) to sharpen my SQL problem-solving skills, with solutions published in my [8week SQL Challenge repository](https://github.com/poojabk9/8-week-sql-challenge).
